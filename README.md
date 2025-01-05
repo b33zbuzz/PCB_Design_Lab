@@ -3,7 +3,7 @@
 PCB_Design_Lab is a repository containing resources, designs, and documentation for printed circuit board (PCB) design and experimentation. This repository is intended to provide reference designs, tutorials, and simulation files for students and professionals involved in PCB design projects.
 
 ## Features
-- Example PCB designs for various applications.
+- Example PCB designs for specific applications.
 - Tutorials on PCB design tools and workflows.
 - Documentation for each design.
 
@@ -57,7 +57,7 @@ This document provides an in-depth lab report on the PCB design process. It cove
 - **Design Principles**: Emphasizes key concepts like Ohm's Law, Kirchhoff's Law, and transmission line theory.
 - **Conclusion**: Summarizes the learnings and challenges of the PCB design process.
 
-### co-527-manual.pdf
+### Lab_Manual.pdf
 A comprehensive manual for the CO-527 component, including:
 - Specifications and features of the CO-527 component.
 - Guidelines for its integration and usage in PCB design.
